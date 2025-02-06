@@ -6,6 +6,7 @@ This repository contains projects and implementations from the course **Software
 1. [**Annotation System**](https://github.com/Aryan-IIT/annotation_cs203) – Built an annotation platform to streamline dataset labeling.  
 2. [**AI Information Portal**](https://github.com/Aryan-IIT/information_portal_cs203) – Developed a web-based information hub for AI-related resources.  
 3. [**Data Validation**](datavalidation_cs203.ipynb) – Utilised great expectations and pandora to validate data.  
+4. [**Active Learning**](active_learning_cs203.ipynb) - Applied various method of active learning to demonstrate its relevance. 
 
 ## Overview  
 Throughout this course, I have explored various techniques and tools to enhance AI workflows, covering topics such as (upcoming projects):  
